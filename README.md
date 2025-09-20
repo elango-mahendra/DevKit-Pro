@@ -35,7 +35,7 @@ DevTools Hub is an open-source, all-in-one developer utility toolbox designed to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/elango-mahendra/AI-Tools.git
+   git clone https://github.com/elango-mahendra/AI-Summarizer-Tools.git
 
    ```
 
