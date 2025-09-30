@@ -60,7 +60,7 @@ npm run build
 ## 📂 Project Structure
 
 ```
-lokeshvivek2511-tools/
+elango-mahendra-DevKit-Pro/
 ├── src/
 │   ├── components/        # Reusable components
 │   ├── pages/             # Main tool pages
